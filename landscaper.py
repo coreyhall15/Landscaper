@@ -9,7 +9,7 @@ tools = [
     {"name": "rusty scissors", "profit": 5, "cost": 5},
     {"name": "old-timey lawn mower", "profit": 50, "cost": 25},    
     {"name": "battery powered lawn mower", "profit": 100, "cost": 250},
-    {"name": "team", "profit": 250, "cost": 500}
+    {"name": "team", "profit": 250, "cost": 500}                 
 ]
 
 ## Game Option Funtion
